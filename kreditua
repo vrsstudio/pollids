@@ -1,16 +1,16 @@
 [{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Startovakartua.png",
-    "company_name": "Кредит до 1 000 000 ",
-    "loan_amount":"от 21 000 до 70 000 ₽",
-   "url": "https://www.cbr.ru/finorg/"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Radabankua.png",
+    "company_name": "Кредит до  100 000 ",
+    "loan_amount":"от 3 000 до 100 000 ₴",
+   "url": "https://www.radabank.com.ua/platizhni-kartky/online-kartka-radacard"
   }
 ,
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Startovakartua.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Verycardua.png",
     "company_name": "Кредит на любые нужды",
-    "loan_amount":"от 31 000 до 70 000 ₽",
-   "url": "https://www.cbr.ru/finorg/"
+    "loan_amount":"от 2 000 до 200 000 ₴",
+   "url": "https://tascombank.ua/you/cards/very_card"
   }
   
 ]
