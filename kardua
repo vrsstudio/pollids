@@ -1,15 +1,15 @@
 [{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/elitcardua.png",
-    "company_name": "Кредит до  300 000 ",
-    "loan_amount":"от 21 000 до 70 000 ₽",
+    "company_name": "Кредитний ліміт до 300 000 гривень",
+    "loan_amount":"от 1 000 до 100 000 ₴",
    "url": "https://bankalliance.ua/privatebanking"
   }
 ,
 
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Startovakartua.png",
-    "company_name": "Кредит на любые нужды",
-    "loan_amount":"от 31 000 до 70 000 ₽",
+    "company_name": "Стартова Дебітна Картка",
+    "loan_amount":"от 2 000 до 300 000 ₴",
    "url": "https://alb.ua/personal/credit_cards"
   }
   
