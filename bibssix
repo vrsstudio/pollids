@@ -1,19 +1,19 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tinkoffruw.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/pumb-logo.png",
     "company_name": "Т-Банк",
     "company_full": "Т-Банк",
-    "loan_amount": "300 000 ₽",
-    "percent": "от 0,01% в день",
+    "loan_amount": "300 000 ₴",
+    "percent": "от 1,99% в день",
     "time": "до 15 минут",
     "badge": "Репутация",
-    "url": "https://www.tbank.ru/loans/cash-loan/"
+    "url": "https://www.pumb.ua/credit/clear-all"
   },
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbmir.png",
     "company_name": "Кредитная ‎карта ВТБ",
     "company_full": "Кредитная ‎карта ВТБ",
-    "loan_amount": "до 200 000 ₽",
+    "loan_amount": "до 200 000 ₴",
     "percent": "от 0,1% в день",
     "time": "до 7 минут",
     "badge": "Безопасно, быстро, удобно",
@@ -24,7 +24,7 @@
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logogenbank.png",
     "company_name": "ГЕНБАНК",
     "company_full": "ГЕНБАНК",
-    "loan_amount": "до 4 000 000 ₽",
+    "loan_amount": "до 4 000 000 ₴",
     "percent": "от 1,2% в день",
     "time": "до 25 минут",
     "badge": "Проверено временем",
