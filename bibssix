@@ -1,0 +1,34 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tinkoffruw.png",
+    "company_name": "Т-Банк",
+    "company_full": "Т-Банк",
+    "loan_amount": "300 000 ₽",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Репутация",
+    "url": "https://www.tbank.ru/loans/cash-loan/"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbmir.png",
+    "company_name": "Кредитная ‎карта ВТБ",
+    "company_full": "Кредитная ‎карта ВТБ",
+    "loan_amount": "до 200 000 ₽",
+    "percent": "от 0,1% в день",
+    "time": "до 7 минут",
+    "badge": "Безопасно, быстро, удобно",
+    "url": "https://www.vtb.ru/personal/karty/kreditnye/vozmozhnosti/"
+  },
+
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logogenbank.png",
+    "company_name": "ГЕНБАНК",
+    "company_full": "ГЕНБАНК",
+    "loan_amount": "до 4 000 000 ₽",
+    "percent": "от 1,2% в день",
+    "time": "до 25 минут",
+    "badge": "Проверено временем",
+    "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+  }
+
+]
