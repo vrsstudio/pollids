@@ -21,14 +21,14 @@
   },
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logogenbank.png",
-    "company_name": "ГЕНБАНК",
-    "company_full": "ГЕНБАНК",
-    "loan_amount": "до 4 000 000 ₴",
-    "percent": "от 1,2% в день",
-    "time": "до 25 минут",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/RAIFAZENBANK.png",
+    "company_name": "Райффайзен Банк",
+    "company_full": "Райффайзен Банк",
+    "loan_amount": "до 750 000 ₴",
+    "percent": "от 1,99% в день",
+    "time": "до 15 минут",
     "badge": "Проверено временем",
-    "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+    "url": "https://raiffeisen.ua/privatnim-osobam/krediti/krediti-gotivkoyu"
   }
 
 ]
