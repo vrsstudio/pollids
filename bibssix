@@ -1,8 +1,8 @@
 [
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/pumb-logo.png",
-    "company_name": "Т-Банк",
-    "company_full": "Т-Банк",
+    "company_name": "Банк ПУМБ",
+    "company_full": "Банк ПУМБ",
     "loan_amount": "300 000 ₴",
     "percent": "от 1,99% в день",
     "time": "до 15 минут",
@@ -10,14 +10,14 @@
     "url": "https://www.pumb.ua/credit/clear-all"
   },
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbmir.png",
-    "company_name": "Кредитная ‎карта ВТБ",
-    "company_full": "Кредитная ‎карта ВТБ",
-    "loan_amount": "до 200 000 ₴",
-    "percent": "от 0,1% в день",
-    "time": "до 7 минут",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/ideabankkart.png",
+    "company_name": "Кредитная ‎карта ІdeaBank",
+    "company_full": "Кредитная ‎карта ІdeaBank",
+    "loan_amount": "до 500 000 ₴",
+    "percent": "от 0,3% в день",
+    "time": "до 15 минут",
     "badge": "Безопасно, быстро, удобно",
-    "url": "https://www.vtb.ru/personal/karty/kreditnye/vozmozhnosti/"
+    "url": "https://ideabank.ua/uk/product/credit-card-same-ta?utm_source=google&utm_medium=cpc&utm_campaign=google_card_p-max&utm_content=yoga&utm_source=google&utm_medium=cpc&utm_campaign=google_card_p-max&gad_source=1&gad_campaignid=23104102963&gbraid=0AAAAABTnxzEcW9YrDUiSLnnrCv_yQzHzd&gclid=CjwKCAjwxrLHBhA2EiwAu9EdMwaAlX7Y_fVt4Z_AL9QJLqfdKTQRx3P15wP3BglyAqYKX-dIJMaU7xoC7fMQAvD_BwE"
   },
 
 {
