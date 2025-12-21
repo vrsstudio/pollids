@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Alfa Bank",
+    "price_info": "Desde 3% hasta 500 000 MXN",
+    "image_url": "http://zaem-online.kz/img/alfa.png",
+    "sum": "400 - 15 000",
+    "term": "3 años",
+    "percent": "1,50% - 1,85%",
+    "url": "http://minfin.ru",
+    "text": "<p>100 días sin intereses en compras y retiros de efectivo.</p><p>Límite de crédito de hasta 500 000 MXN.</p>"
+  },
+  {
+    "name": "MTS Bank - tarjetas de crédito",
+    "price_info": "Desde 5% hasta 300 000 MXN",
+    "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
+    "sum": "400 - 15 000",
+    "term": "2 años",
+    "percent": "1,50% - 1,85%",
+    "url": "http://minfin.ru",
+    "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
+  }
+]
