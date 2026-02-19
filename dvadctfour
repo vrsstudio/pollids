@@ -1,0 +1,26 @@
+[ 
+{
+       
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+             "sum_one": "до 5 500 000  ₽",
+        "percent": "0%",
+  "text": "Авторешение",
+        "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+    },
+{
+       
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
+             "sum_one": "до 4 000 000  ₽",
+        "percent": "1%",
+  "text": "Авторешение",
+        "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+    },
+      {
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/tinkoffruw.png",
+             "sum_one": "до 4 000 000  ₽",
+        "percent": "1%",
+        "url": "https://www.tbank.ru/loans/cash-loan/"
+    }
+
+]
