@@ -1,0 +1,28 @@
+[ 
+{
+       
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/logo_hsbc.png",
+             "sum_one": "Hasta 36 000 $",
+        "percent": "0%",
+  "text": "Авторешение",
+        "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+    },
+{
+       
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/bbvacols.png",
+             "sum_one": "Hasta 120,000 MXN",
+        "percent": "0%",
+  "text": "Авторешение",
+        "url": "https://www.bbva.mx/personas/productos/creditos/prestamos-personales/adelanto-de-sueldo.html"
+    },
+{
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+             "sum_one": "Hasta 15 000 $",
+        "percent": "0%",
+        "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+    }
+
+      
+
+]
