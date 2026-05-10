@@ -1,26 +1,61 @@
 [ 
 {
        
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/logo_hsbc.png",
-             "sum_one": "Hasta 36 000 $",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
+             "sum_one": "Hasta 50,000 MXN",
         "percent": "0%",
   "text": "Авторешение",
-        "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
-    },
-{
-       
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/bbvacols.png",
-             "sum_one": "Hasta 120,000 MXN",
-        "percent": "0%",
-  "text": "Авторешение",
-        "url": "https://www.bbva.mx/personas/productos/creditos/prestamos-personales/adelanto-de-sueldo.html"
+        "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
     },
 {
         
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
-             "sum_one": "Hasta 15 000 $",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+             "sum_one": "Hasta 30 000 $",
         "percent": "0%",
-        "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+        "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+    },
+{
+       
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/loaneymx.png",
+             "sum_one": "Hasta 10 000 $N",
+        "percent": "0%",
+  "text": "Авторешение",
+        "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+    },
+{
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+             "sum_one": "Hasta 80 000 $",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
+    },
+{
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+             "sum_one": "Hasta 50 000 $",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
+    },
+{
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+             "sum_one": "Hasta 14 000 $",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+    },
+{
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+             "sum_one": "Hasta 110 000 $",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
+    },
+{
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
+             "sum_one": "Hasta 80 000 $",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
     }
 
       
