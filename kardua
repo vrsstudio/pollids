@@ -1,16 +1,35 @@
-[{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/elitcardua.png",
-    "company_name": "Кредитний ліміт до 300 000 гривень",
-    "loan_amount":"от 1 000 до 100 000 ₴",
-   "url": "https://bankalliance.ua/privatebanking"
+[
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/suncredit.png",
+    "company_name": "Подайте заявку просто зараз",
+    "loan_amount":"от 1 000 до 30 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1r2u6a2c38fb0ec0a"
   }
 ,
-
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Startovakartua.png",
-    "company_name": "Стартова Дебітна Картка",
-    "loan_amount":"от 2 000 до 300 000 ₴",
-   "url": "https://alb.ua/personal/credit_cards"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/novicredutu.png",
+    "company_name": "Гроші до зарплати онлайн",
+    "loan_amount":"от 1 000 до 20 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1ptn6a2c39b10f8df"
+  }
+,
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/aerocash.png",
+    "company_name": "Швидко. Зручно",
+    "loan_amount":"от 1 000 до 10 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1rpj6a2c3a199ddec"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/suncredit.png",
+    "company_name": "Кредитний ліміт без черг",
+    "loan_amount":"от 1 000 до 20 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1r2u6a2c38fb0ec0a"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/avira.png",
+    "company_name": "Гроші до зарплати онлайн",
+    "loan_amount":"от 1 000 до 10 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1q4f6a2c3c2da5f73"
   }
   
 ]
