@@ -1,16 +1,40 @@
-[{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Radabankua.png",
-    "company_name": "Кредит до  100 000 ",
-    "loan_amount":"от 3 000 до 100 000 ₴",
-   "url": "https://www.radabank.com.ua/platizhni-kartky/online-kartka-radacard"
-  }
-,
-
+[
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Verycardua.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditniceua.png",
     "company_name": "Кредит на любые нужды",
     "loan_amount":"от 2 000 до 200 000 ₴",
-   "url": "https://tascombank.ua/you/cards/very_card"
+   "url": "https://tds.pdl-profit.com/h/1qos68c7ea3e1664b"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditplus.png",
+    "company_name": "Кредит до  100 000 ",
+    "loan_amount":"от 500 до 100 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1pd66a2c3533ad231"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/pango.png",
+    "company_name": "Кредит до  100 000 ",
+    "loan_amount":"от 300 до 100 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1qtc6a2c35a4a3d0c"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/sloncredit.png",
+    "company_name": "Кредит до  100 000 ",
+    "loan_amount":"от 500 до 100 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1pjs6a2c36dcb6b51"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/selficred.png",
+    "company_name": "Кредит до  90 000 ",
+    "loan_amount":"от 300 до 90 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1q4m6a2c37664b922"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/mycreditt.png",
+    "company_name": "Кредит до  200 000 ",
+    "loan_amount":"от 1 000 до 200 000 ₴",
+   "url": "https://tds.pdl-profit.com/h/1pd26a2c37ff9f5c9"
   }
+
   
 ]
