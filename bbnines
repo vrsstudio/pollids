@@ -1,51 +1,47 @@
 [
-
- {
+  {
     "name": "Выбор клиентов",
-"rating": 5,
- "odobrenie": "Высокое",
- "age": "от 18 лет",
-             "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
-           "sum_one": "от 1000 до 5 000 000 руб",
-         "url": "https://www.tbank.ru/loans/cash-loan/"
-    },
- {
-    
+    "rating": 5,
+    "odobrenie": "Высокое",
+    "age": "от 18 лет",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
+    "sum_one": "от 1000 до 5 000 000 руб",
+    "url": "https://www.tbank.ru/loans/cash-loan/"
+  },
+  {
     "name": "Рассмотрение за 15 мин",
-"rating": 5,
- "odobrenie": "Высокое",
- "age": "от 18 лет",
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",   
-"sum_one": "от 1000 до 3 450 000 руб",
- "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
-},
- {
+    "rating": 5,
+    "odobrenie": "Высокое",
+    "age": "от 18 лет",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+    "sum_one": "от 1000 до 3 450 000 руб",
+    "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+  },
+  {
     "name": "Всегда выгодные условия",
-"rating": 5,
- "odobrenie": "Высокое",
- "age": "от 18 лет",
-"image_url": ""https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",   
-"sum_one": "от 500 до 4 000 000 руб",
- "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
-},
-{
+    "rating": 5,
+    "odobrenie": "Высокое",
+    "age": "от 18 лет",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
+    "sum_one": "от 500 до 4 000 000 руб",
+    "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+  },
+  {
     "name": "Рассмотрение за 10 мин",
-"rating": 5,
- "odobrenie": "Высокое",
- "age": "от 18 лет",
-"image_url": ""https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",   
-"sum_one": "от 500 до 4 000 000 руб",
- "url": "https://sovcombank.ru/credits/cash?utm_referrer=https%3A%2F%2Fsovcombank.ru%2Fcredits%2Fcash%3Fysclid%3Dmhub0jdtno262048809"
-},
- {
+    "rating": 5,
+    "odobrenie": "Высокое",
+    "age": "от 18 лет",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
+    "sum_one": "от 500 до 4 000 000 руб",
+    "url": "https://sovcombank.ru/credits/cash?utm_referrer=https%3A%2F%2Fsovcombank.ru%2Fcredits%2Fcash%3Fysclid%3Dmhub0jdtno262048809"
+  },
+  {
     "name": "Первый займ под 0,01%",
-"rating": 5,
- "odobrenie": "Высокое",
- "age": "от 18 лет",
-  "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
-           "sum_one": "от 2000 до 6 000 000 руб",
-         "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
-    }
-
-
+    "rating": 5,
+    "odobrenie": "Высокое",
+    "age": "от 18 лет",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+    "sum_one": "от 2000 до 6 000 000 руб",
+    "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+  }
 ]
