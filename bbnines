@@ -11,7 +11,7 @@
     },
  {
     
-    "name": "Деньги без процентов",
+    "name": "Рассмотрение за 15 мин",
 "rating": 5,
  "odobrenie": "Высокое",
  "age": "от 18 лет",
@@ -22,7 +22,7 @@
  "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
 },
  {
-    "name": "Деньги уже сегодня",
+    "name": "Всегда выгодные условия",
 "rating": 5,
  "odobrenie": "Высокое",
  "age": "от 18 лет",
@@ -33,7 +33,7 @@
  "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
 },
  {
-    "name": "Деньги без ожидания",
+    "name": "Первый займ под 0,01%",
 "rating": 5,
  "odobrenie": "Высокое",
  "age": "от 18 лет",
@@ -41,15 +41,7 @@
   "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
            "sum_one": "от 2000 до 6 000 000 руб",
          "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
-    },
- {
-    "name": "0% переплаты первый месяц",
-"rating": 5,
- "odobrenie": "Высокое",
- "age": "от 18 лет",
-             "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
-           "sum_one": "от 100 до 15 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=ninevzymu"
     }
+
 
 ]
