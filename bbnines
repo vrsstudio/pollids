@@ -15,22 +15,22 @@
 "rating": 5,
  "odobrenie": "Высокое",
  "age": "от 18 лет",
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",   
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",   
 
-"sum_one": "от 100 до 30 000 руб",
+"sum_one": "от 1000 до 3 450 000 руб",
 
- "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=ninevzymu"
+ "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
 },
  {
     "name": "Деньги уже сегодня",
 "rating": 5,
  "odobrenie": "Высокое",
  "age": "от 18 лет",
-"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/genbankruu.png",   
 
-"sum_one": "от 100 до 30 000 руб",
+"sum_one": "от 500 до 4 000 000 руб",
 
- "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=ninevzymu"
+ "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
 },
  {
     "name": "Деньги без ожидания",
@@ -38,9 +38,9 @@
  "odobrenie": "Высокое",
  "age": "от 18 лет",
 
-  "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
-           "sum_one": "от 2000 до 100 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=ninevzymu"
+  "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+           "sum_one": "от 2000 до 6 000 000 руб",
+         "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
     },
  {
     "name": "0% переплаты первый месяц",
