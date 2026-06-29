@@ -24,7 +24,7 @@
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/image0989.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/image0989.png",   
 "text": "Виртуальная карта",
 "sum_one": "до 100 000 руб",
  "percent": "0%",
@@ -34,7 +34,7 @@
 },
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/otp-bank.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/otp-bank.png",   
 "text": "Дебетовая ОТП карта",
 "sum_one": "до 100 000 руб",
  "percent": "0%",
@@ -109,7 +109,7 @@
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/zapress.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/zapress.png",   
 "text": "Займ без процентов",
 "sum_one": "до 12 000 руб",
  "percent": "0%",
@@ -122,7 +122,7 @@
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/equa.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/equa.png",   
 "text": "Займ без процентов",
 "sum_one": "до 50 000 руб",
  "percent": "1%",
@@ -135,7 +135,7 @@
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/hurma.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/hurma.png",   
 "text": "Авторешение",
 "sum_one": "до 50 000 руб",
  "percent": "0%",
@@ -146,7 +146,7 @@
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/davaka.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/davaka.png",   
 "text": "Займ без процентов",
 "sum_one": "до 50 000 руб",
  "percent": "0%",
@@ -157,7 +157,7 @@
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/vozmika.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/vozmika.png",   
 "text": "Займ без процентов",
 "sum_one": "до 30 000 руб",
  "percent": "0%",
@@ -167,20 +167,10 @@
 },
 
 
-{
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/footer.png",   
-"text": "Займ без процентов",
-"sum_one": "до 50 000 руб",
- "percent": "0%",
-  "rating": 5,
-"days_info": "",
- "url": "https://pxl.leads.su/click/efc4007b9d4d787af2dcc592eb2fc8e8?aff_sub1=kruglosuts&erid=2W5zFJEWxZF"
-},
-
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/footer.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/footer.png",   
 "text": "Займ без процентов",
 "sum_one": "до 50 000 руб",
  "percent": "0%",
@@ -191,7 +181,7 @@
 
 
 {
-"image_url": "https://github.com/vipstatustoyou/images/blob/main/ecoz.png",   
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ecoz.png",   
 "text": "Займ без процентов",
 "sum_one": "до 30 000 руб",
  "percent": "0%",
