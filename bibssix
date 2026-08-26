@@ -2,20 +2,20 @@
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditniceua.png",
     "company_name": "Creditnice",
-    "company_full": "Creditnice",
+    "company_full": "Швидкий розгляд заявки",
     "loan_amount": "100 000 ₴",
-    "percent": "от 0,02% в день",
-    "time": "до 13 минут",
+    "percent": "от 0,01% в день",
+    "time": "до 13 хвилин",
     "badge": "Легко и Честно",
     "url": "https://track-pdlp.com/h/1qos68c7ea3e1664b"
   },
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/wvidogrosh.png",
     "company_name": "‎ШвидкоГроші",
-    "company_full": "ШвидкоГроші",
+    "company_full": "Оформлюйте онлайн 24/7",
     "loan_amount": "до 350 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 7 минут",
+    "time": "до 7 хвилин",
     "badge": "Безопасно, быстро, удобно",
     "url": "https://track-pdlp.com/h/1qot6a8c3af6a047d"
   },
@@ -23,10 +23,10 @@
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lehgo1.png",
     "company_name": "Lehkocredit",
-    "company_full": "Lehkocredit",
+    "company_full": "Быстрое рассмотрение заявки",
     "loan_amount": "до 25 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
   },
@@ -36,27 +36,27 @@
     "company_full": "Lehkocredit",
     "loan_amount": "до 25 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/starfin1.png",
     "company_name": "Starfin",
-    "company_full": "Starfin",
+    "company_full": "Гроші на картку швидко",
     "loan_amount": "до 20 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 7 минут",
+    "time": "до 7 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/selfi.png",
     "company_name": "SelfieCredit",
-    "company_full": "SelfieCredit",
+    "company_full": "Без зайвих кроків",
     "loan_amount": "до 30 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1q4m6a2c37664b922"
   },
@@ -66,27 +66,27 @@
     "company_full": "Lehkocredit",
     "loan_amount": "до 25 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credit77.png",
     "company_name": "Credit7",
-    "company_full": "Credit7",
+    "company_full": "Кошти без зайвого очікування",
     "loan_amount": "до 25 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1pcr6a8c3c3980613"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/firstcredit1.png",
     "company_name": "Firstcredit",
-    "company_full": "Firstcredit",
+    "company_full": "Зручно з будь-якого смартфона",
     "loan_amount": "до 23 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1qtt6a8c3c4f2c553"
   },
@@ -96,17 +96,17 @@
     "company_full": "Lehkocredit",
     "loan_amount": "до 25 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/moneyveo.png",
     "company_name": "Moneyveo",
-    "company_full": "Moneyveo",
+    "company_full": "Коли гроші потрібні терміново",
     "loan_amount": "до 50 000 ₴",
     "percent": "от 0,01% в день",
-    "time": "до 15 минут",
+    "time": "до 15 хвилин",
     "badge": "Проверено временем",
     "url": "https://track-pdlp.com/h/1pd86a8c3c8cceb9b"
   }
