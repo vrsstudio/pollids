@@ -1,34 +1,114 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/pumb-logo.png",
-    "company_name": "Банк ПУМБ",
-    "company_full": "Банк ПУМБ",
-    "loan_amount": "300 000 ₴",
-    "percent": "от 1,99% в день",
-    "time": "до 17 минут",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditniceua.png",
+    "company_name": "Creditnice",
+    "company_full": "Creditnice",
+    "loan_amount": "100 000 ₴",
+    "percent": "от 0,02% в день",
+    "time": "до 13 минут",
     "badge": "Легко и Честно",
-    "url": "https://www.pumb.ua/credit/clear-all"
+    "url": "https://track-pdlp.com/h/1qos68c7ea3e1664b"
   },
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/ideabankkart.png",
-    "company_name": "‎Карта ІdeaBank",
-    "company_full": "Кредитная ‎карта ІdeaBank",
-    "loan_amount": "до 500 000 ₴",
-    "percent": "от 0,3% в день",
-    "time": "до 10 минут",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/wvidogrosh.png",
+    "company_name": "‎ШвидкоГроші",
+    "company_full": "ШвидкоГроші",
+    "loan_amount": "до 350 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 7 минут",
     "badge": "Безопасно, быстро, удобно",
-    "url": "https://ideabank.ua/uk/product/credit-card-same-ta?utm_source=google&utm_medium=cpc&utm_campaign=google_card_p-max&utm_content=yoga&utm_source=google&utm_medium=cpc&utm_campaign=google_card_p-max&gad_source=1&gad_campaignid=23104102963&gbraid=0AAAAABTnxzEcW9YrDUiSLnnrCv_yQzHzd&gclid=CjwKCAjwxrLHBhA2EiwAu9EdMwaAlX7Y_fVt4Z_AL9QJLqfdKTQRx3P15wP3BglyAqYKX-dIJMaU7xoC7fMQAvD_BwE"
+    "url": "https://track-pdlp.com/h/1qot6a8c3af6a047d"
   },
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/raifazen.png",
-    "company_name": "Райффайзен Банк",
-    "company_full": "Райффайзен Банк",
-    "loan_amount": "до 750 000 ₴",
-    "percent": "от 1,99% в день",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lehgo1.png",
+    "company_name": "Lehkocredit",
+    "company_full": "Lehkocredit",
+    "loan_amount": "до 25 000 ₴",
+    "percent": "от 0,01% в день",
     "time": "до 15 минут",
     "badge": "Проверено временем",
-    "url": "https://raiffeisen.ua/privatnim-osobam/krediti/krediti-gotivkoyu"
+    "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lehgo1.png",
+    "company_name": "Lehkocredit",
+    "company_full": "Lehkocredit",
+    "loan_amount": "до 25 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/starfin1.png",
+    "company_name": "Starfin",
+    "company_full": "Starfin",
+    "loan_amount": "до 20 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 7 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/selfi.png",
+    "company_name": "SelfieCredit",
+    "company_full": "SelfieCredit",
+    "loan_amount": "до 30 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1q4m6a2c37664b922"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lehgo1.png",
+    "company_name": "Lehkocredit",
+    "company_full": "Lehkocredit",
+    "loan_amount": "до 25 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credit77.png",
+    "company_name": "Credit7",
+    "company_full": "Credit7",
+    "loan_amount": "до 25 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1pcr6a8c3c3980613"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/firstcredit1.png",
+    "company_name": "Firstcredit",
+    "company_full": "Firstcredit",
+    "loan_amount": "до 23 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1qtt6a8c3c4f2c553"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/lehgo1.png",
+    "company_name": "Lehkocredit",
+    "company_full": "Lehkocredit",
+    "loan_amount": "до 25 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1r1m6a8c3c9716a79"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/moneyveo.png",
+    "company_name": "Moneyveo",
+    "company_full": "Moneyveo",
+    "loan_amount": "до 50 000 ₴",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://track-pdlp.com/h/1pd86a8c3c8cceb9b"
   }
 
 ]
